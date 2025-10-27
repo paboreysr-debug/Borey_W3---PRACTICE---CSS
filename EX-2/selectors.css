@@ -1,0 +1,56 @@
+body {
+  background-color: #f0f8ff;
+}
+
+h1 {
+  color: #ff69b4;
+}
+
+h2 {
+  color: #ff8c00;
+}
+
+li {
+  color: #1e90ff;
+}
+
+p {
+  background-color: #fffacd;
+}
+
+input {
+  border: 3px solid #ff4500;
+}
+
+.hello {
+  background-color: #ffffff;
+}
+
+#special {
+  border: 2px solid #4682b4;
+}
+
+div p {
+  font-size: 25px;
+}
+
+input[type="text"] {
+  background-color: #dcdcdc;
+}
+
+input[type="checkbox"]:checked {
+  margin-left: 50px;
+}
+
+label {
+  text-transform: uppercase;
+}
+
+#special::first-letter {
+  color: #32cd32;
+  font-size: 100px;
+}
+
+h1:hover {
+  color: #1e90ff;
+}

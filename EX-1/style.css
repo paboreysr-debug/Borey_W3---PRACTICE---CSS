@@ -1,0 +1,47 @@
+body {
+  background-color: #555;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin: 100px;
+}
+
+.card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.radius30 {
+  border-radius: 30px;
+}
+
+.btn {
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+/* Button colors */
+.green {
+  background-color: teal;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.purple {
+  background-color: purple;
+}
